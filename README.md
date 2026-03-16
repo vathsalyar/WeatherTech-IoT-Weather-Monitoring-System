@@ -31,6 +31,9 @@ WeatherTech is a compact Arduino-based environmental monitoring system that meas
 ## Circuit Diagram
 ![Circuit Diagram](weathertech_circuit_diagram.jpeg)
 
+## Working
+![Working of WeatherTech](working_weathertech.mp4)
+
 ## System Architecture
 Sensors collect environmental data → Arduino processes the data → Information is displayed on LCD → Alerts triggered when thresholds exceed.
 
